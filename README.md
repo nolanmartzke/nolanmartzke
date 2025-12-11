@@ -14,9 +14,9 @@ My experience spans software development, data analysis, and sports analytics, w
 - React/React Native
 
 ## Projects
+- Stock Market Simulator
 - Milwaukee Brewers Hitting Analysis
 - March Madness Game Predictor
-- BadgerChat (React/React Native)
 - Various AI and data science projects
 
 # Online Profiles
