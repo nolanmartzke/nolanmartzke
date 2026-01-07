@@ -17,6 +17,7 @@ My experience spans software development, data analysis, and sports analytics, w
 - Stock Market Simulator
 - Milwaukee Brewers Hitting Analysis
 - March Madness Game Predictor
+- 2025 NFL QB Statistic Visualization Tool
 - Various AI and data science projects
 
 # Online Profiles
